@@ -1,12 +1,12 @@
 {
-  "dependencies": {
-    "@limitbreak/creator-token-contracts": "^1.1.2",
-    "@limitbreak/creator-token-standards": "^2.0.1",
-    "@openzeppelin/contracts": "^5.0.2",
-    "ethers": "^6.11.1"
-  },
+  "name": "sbee-devpass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "hardhat": "^2.22.2"
+    "hardhat": "^2.22.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
   }
 }
